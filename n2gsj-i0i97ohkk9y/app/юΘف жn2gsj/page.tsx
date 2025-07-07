@@ -1,3 +1,10 @@
+export const metadata = {
+  title: 'юΘف жn2gsj', // put your exact string here, decoded (don’t keep %20)
+};
+
+export default function RangaPage() {
+  return <div>This is the Ranga page!</div>;
+}
 
 "use client"
 
