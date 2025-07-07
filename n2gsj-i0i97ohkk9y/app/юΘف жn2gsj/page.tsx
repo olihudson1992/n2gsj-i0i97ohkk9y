@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'юΘف жn2gsj', // put your exact string here, decoded (don’t keep %20)
+  title: 'юΘف жn2gsj',
 };
 
 export default function RangaPage() {
